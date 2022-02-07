@@ -1,0 +1,3 @@
+/home/jason/CLionProjects/Programming1/CMakeFiles/Programming1.dir
+/home/jason/CLionProjects/Programming1/CMakeFiles/edit_cache.dir
+/home/jason/CLionProjects/Programming1/CMakeFiles/rebuild_cache.dir
